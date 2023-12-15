@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=PrintBinaryDigitsFixed2
+comment1.params=digits
+comment1.target=void\ printBackwardsFrom(java.lang.String[])
+comment2.params=num
+comment2.target=boolean\ readInteger(int)
+comment3.params=num\ min\ max
+comment3.target=void\ readInput(int,\ int,\ int)
+comment4.params=args
+comment4.target=void\ main(java.lang.String[])
+numComments=5
